@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggersender",
+        "uuid": 5133366,
+        "checksum": "sfo9dc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
